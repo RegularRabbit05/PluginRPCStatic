@@ -1,0 +1,16 @@
+{
+  "icons": [
+    {
+      "type": "320x176",
+      "language": null,
+      "url": "https://activity-icons.pluginrpc.projects.regdev.me/images/xmb.png"
+    }
+  ],
+  "title_id": "XMB",
+  "console": [
+    "PS3"
+  ],
+  "parental_level": 0,
+  "name": "XMB",
+  "media_type": "system",
+}
