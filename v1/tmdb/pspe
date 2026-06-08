@@ -1,0 +1,16 @@
+{
+  "icons": [
+    {
+      "type": "320x176",
+      "language": null,
+      "url": "https://activity-icons.pluginrpc.projects.regdev.me/images/pspe.png"
+    }
+  ],
+  "title_id": "ERROR",
+  "console": [
+    "PSP"
+  ],
+  "parental_level": 0,
+  "name": "ERROR",
+  "media_type": "system"
+}
